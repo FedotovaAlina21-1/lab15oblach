@@ -1,5 +1,6 @@
 +++
 date = '2025-04-10T16:20:05+09:00'
-draft = true
-title = 'My First Post'
+title = 'Аватар'
 +++
+
+Хороший фильм
